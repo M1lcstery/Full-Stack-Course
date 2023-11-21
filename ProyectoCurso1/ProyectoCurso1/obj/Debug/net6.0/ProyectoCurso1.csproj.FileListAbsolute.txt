@@ -1,0 +1,15 @@
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\bin\Debug\net6.0\ProyectoCurso1.exe
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\bin\Debug\net6.0\ProyectoCurso1.deps.json
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\bin\Debug\net6.0\ProyectoCurso1.runtimeconfig.json
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\bin\Debug\net6.0\ProyectoCurso1.dll
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\bin\Debug\net6.0\ProyectoCurso1.pdb
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.AssemblyInfoInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.AssemblyInfo.cs
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.dll
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\refint\ProyectoCurso1.dll
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.pdb
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ProyectoCurso1.genruntimeconfig.cache
+C:\Users\lauta\OneDrive\Escritorio\Proyectos\Curso\ProyectoCurso1\ProyectoCurso1\obj\Debug\net6.0\ref\ProyectoCurso1.dll

@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Roboto+Slab:wght@300&display=swap');
+
+/* Body */
+
+body {
+    margin: 0;
+    background-color: #231F20;
+}
+
+/* Background */
+
+.bkg {
+    background-image: url(../assets/background.png);
+    background-repeat: no-repeat;
+    background-color: rgb(255, 255, 255);
+    background-size: 100%;
+    background-position: bottom;
+    margin: 2%;
+}
+
+.gray-bkg {
+    background-color: rgb(248, 244, 244);
+    margin-top: 2%;
+    margin-bottom: 2%;
+    display: flex;
+    align-items: center;
+}
+
+/* Nav */
+
+.navbar {
+    background-color: #231F20;
+    color: white;
+}
+
+.navbar h1 {
+    margin: 0 0 0 2%;
+    padding-top: 24px;
+    font-family: 'Anton', sans-serif;
+    font-size: 82px;
+}
+
+.navbar ul {
+    display: flex;
+    justify-content: end;
+    margin: 0;
+    padding: 8px;
+}
+
+.navbar li {
+    font-family: 'Roboto Slab', serif;
+    font-size: 24px;
+    padding: 24px;
+    list-style: none;
+    text-decoration: none;
+    width: 6em;
+    height: 1em;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    font-size: 32px;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #231F20;
+}
+
+footer a {
+    color: crimson;
+    text-decoration: none;
+    display: inline-block;
+}
+
+footer a:hover {
+    font-size: 28px;
+}
+
+/* Divs */
+
+.welcome {
+    color: black;
+    font-family: 'Roboto Slab', serif;
+    padding: 16px;
+    text-align: center;
+    border-bottom: 2px dashed #bbb;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.welcome strong {
+    color: black;
+    font-size: 42px;
+}
+
+.box {
+    color: rgb(99, 90, 90);
+    font-family: 'Roboto Slab', serif;
+
+    padding: 10px;
+    text-align: center;
+    margin-top: 15px;
+
+}
+
+/* Sizes */
+
+.b1 {
+    font-size: 28px;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.b1 strong {
+    font-size: 30px;
+}
+
+.b2 {
+    font-size: 26px;
+    margin-left: 18%;
+    margin-right: 18%;
+}
+
+.b2 strong {
+    font-size: 30px;
+}
+
+.b3 {
+    font-size: 24px;
+    margin-left: 21%;
+    margin-right: 21%;
+}
+
+.b3 strong {
+    font-size: 28px;
+}
+
+.b4 {
+    font-size: 22px;
+    margin-left: 24%;
+    margin-right: 24%;
+}
+
+.b4 strong {
+    font-size: 26px;
+}
+
+.b5 {
+    font-size: 20px;
+    margin-left: 27%;
+    margin-right: 27%;
+}
+
+.b5 strong {
+    font-size: 24px;
+}
+
+.b6 {
+    font-size: 18px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.b6 strong {
+    font-size: 22px;
+}
+
+.b7 {
+    font-size: 16px;
+    margin-left: 33%;
+    margin-right: 33%;
+}
+
+.b7 strong {
+    font-size: 20px;
+}
+
+/* Sections */
+
+section {
+    text-align: center;
+    padding-top: 1em;
+    padding-bottom: 5em;
+    font-family: 'Roboto Slab', serif;
+    font-size: 96px;
+}
+
+/* Span */
+
+strong {
+    font-weight: bold;
+    font-size: 26px;
+    color: rgb(201, 41, 41);
+}
+
+/* Images */
+
+.image-container {
+    max-width: 100%;
+    height: auto;
+    padding: 25px;
+}
+
+.image-container img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    border: 1em solid black;
+}
+
+/* Input */ 
+
+.container {
+    width: 60%;
+    margin-left: 18%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.separacion {
+    margin-bottom: 10px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+}
+
+input[type="submit"] {
+    float: right;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #45a049;
+}
