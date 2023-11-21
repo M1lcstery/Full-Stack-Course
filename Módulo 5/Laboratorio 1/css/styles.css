@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+#logo {
+    width: 5%;
+}
+
+#hostingImage {
+    width: 100%;
+    height: auto;
+}
+
+#active {
+    font-weight: bold;
+}
+
+body {
+    margin: 0;
+    border-top: 10px solid rgb(19, 99, 227);
+}
+
+nav {
+
+    margin: 20px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+a {
+    color: #04146c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 18pt;
+    text-decoration: none;
+    margin-top: 10px;
+    margin-left: 20px;
+    padding-left: 50px;
+}
+
+h1,
+p {
+    text-align: center;
+}
+
+h1 {
+    color: #0a2ff1;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 72pt;
+}
+
+h2 {
+    color: #0a2ff1;
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 34pt;
+    margin-left: 100px;
+}
+
+p {
+    color: #04146c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 26pt;
+}
+
+div section p {
+    font-size: 18pt;
+    margin-right: 60%;
+    margin-left: 100px;
+    text-align: left;
+}
+
+div section strong {
+    color: #04146c;
+    font-family: 'Roboto', sans-serif;
+    font-weight: normal;
+    font-size: 26pt;
+    font-weight: bold;
+    margin-right: 60%;
+    margin-left: 100px;
+}
+
+.background {
+    background-image: url(../assets/M5-Desafio3-img.png);
+    background-size: 60%;
+    background-position-x: 85%;
+    background-repeat: no-repeat;
+}
+
+footer {
+    background-color: #3d5aea;
+}
+
+footer #logo {
+    padding: 20px;
+    width: 15%;
+}

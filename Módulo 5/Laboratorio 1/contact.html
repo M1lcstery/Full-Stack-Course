@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/contact.css">
+    <title>Laboratorio 1 / Contacto</title>
+</head>
+
+<body>
+
+    <main>
+
+        <header>
+            <nav>
+                <img id="logo" src="assets/M5-logo-azul.svg" alt="logo-azul">
+                <a href="index.html">HOME</a>
+                <a id="active" href="#contacto">CONTACTO</a>
+            </nav>
+        </header>
+
+        <h1>¿Querés que nos contactemos con vos?</h1>
+        <p>Dejanos tu consulta:</p>
+
+        <form action="php/code.php">
+            <label>Nombre Completo <span>*</span></label>
+            <input name="nombre" type="text" required placeholder="Lautaro Cepero">
+            <label>Email <span>*</span></label>
+            <input name="email" type="email" required placeholder="mimail@mail.com">
+            <label>Comentario <span>*</span></label>
+            <textarea name="comentario" id="comentario" cols="30" rows="10" required></textarea>
+            <div>
+                <button id="resetear" type="reset">Resetear</button>
+                <button id="enviar" type="submit">Enviar</button>
+            </div>
+        </form>
+
+    </main>
+
+</body>
+
+</html>
